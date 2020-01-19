@@ -1,5 +1,11 @@
 .header {
     width: 100%;
-    height: 50px;
-    background-color: aqua;
+    background-color: #3598db;
+    padding: 15px 20px;
+    display: flex;
+    
+}
+
+.header-img-burger {
+    width: 30px;
 }
